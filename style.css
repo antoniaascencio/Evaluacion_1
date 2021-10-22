@@ -1,0 +1,50 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:wght@500&display=swap');
+
+
+:root {
+    --bs-body-font-family: 'Andada Pro', serif;
+    --bs-body-font-size: 1rem;
+    --bs-body-font-weight: 300;
+   --bs-blue: #0d6efd;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
+    font-weight: 700;
+}
+
+
+#fondo-con-imagen {
+    height: 60vh;
+    background-image: url("img/Ghibli.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+  
+    background-color: rgba(0, 0, 0, 0.6);
+ 
+
+}
+
+h1{color: lightblue;
+    text-shadow: 3px -3px black;
+}
+
+span{
+    color: white;
+}
+
+.carousel{
+    padding-bottom: 20px;
+}
+
+p{
+    text-align: justify;
+}
