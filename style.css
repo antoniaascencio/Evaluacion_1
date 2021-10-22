@@ -27,8 +27,8 @@ strong {
     background-image: url("img/Ghibli.jpg");
     background-repeat: no-repeat;
     background-position: right;
+    background-size: cover;
   
-    background-color: rgba(0, 0, 0, 0.6);
  
 
 }
