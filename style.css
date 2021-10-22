@@ -23,11 +23,11 @@ strong {
 
 
 #fondo-con-imagen {
-    height: 60vh;
+    height:50vh;
     background-image: url("img/Ghibli.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: fill;
+    background-size: Cover;
   
  
 
